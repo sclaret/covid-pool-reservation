@@ -1,0 +1,254 @@
+{
+  "Name": "pool",
+  "CreationDate": "2021-5-3",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://www.sport-plus-online.com/PrmsMVC/?VirId=74&ArrId=114",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Tout accepter",
+      "Value": "",
+      "Targets": [
+        "linkText=Tout accepter",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=Fermer",
+      "Value": "",
+      "Targets": [
+        "linkText=Fermer",
+        "id=btnSessionFermer",
+        "xpath=//*[@id=\"btnSessionFermer\"]",
+        "xpath=//a[@id='btnSessionFermer']",
+        "xpath=//div[3]/div[2]/a",
+        "css=#btnSessionFermer"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Se déconnecter",
+      "Value": "",
+      "Targets": [
+        "linkText=Se déconnecter",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"menu-haut\"]/div/div/ul/li/a",
+      "Value": "",
+      "Targets": [
+        "linkText=Se connecter",
+        "xpath=//*[@id=\"menu-haut\"]/div/div/ul/li/a",
+        "xpath=//div/div/ul/li/a",
+        "css=#menu-haut > div > div > ul > li > a"
+      ]
+    },
+    {
+      "Command": "type",
+      "Target": "id=CodeUtilisateur",
+      "Value": "sclaret123",
+      "Targets": [
+        "id=CodeUtilisateur",
+        "name=CodeUtilisateur",
+        "xpath=//*[@id=\"CodeUtilisateur\"]",
+        "xpath=//input[@id='CodeUtilisateur']",
+        "xpath=//div[2]/input",
+        "css=#CodeUtilisateur"
+      ]
+    },
+    {
+      "Command": "type",
+      "Target": "id=motPasse",
+      "Value": "MONMOTDEPASSE",
+      "Targets": [
+        "id=motPasse",
+        "name=motPasse",
+        "xpath=//*[@id=\"motPasse\"]",
+        "xpath=//input[@id='motPasse']",
+        "xpath=//div[2]/div/div/input",
+        "css=#motPasse"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"ConnexionDroitePartiel\"]/div[4]/div/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"ConnexionDroitePartiel\"]/div[4]/div/button",
+        "xpath=//button[@type='submit']",
+        "xpath=//button",
+        "css=#ConnexionDroitePartiel > div:nth-child(4) > div > button"
+      ]
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//*[@id=\"menuPrincipal\"]/li[6]/a",
+      "Value": "",
+      "Targets": [
+        "linkText=Réservation de places",
+        "xpath=//*[@id=\"menuPrincipal\"]/li[6]/a",
+        "xpath=//div[2]/div/ul/li[6]/a",
+        "css=#menuPrincipal > li:nth-child(6) > a"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "id=selectmembres",
+      "Value": "",
+      "Targets": [
+        "id=selectmembres",
+        "xpath=//*[@id=\"selectmembres\"]",
+        "xpath=//select[@id='selectmembres']",
+        "xpath=//select",
+        "css=#selectmembres"
+      ]
+    },
+    {
+      "Command": "select",
+      "Target": "id=selectmembres",
+      "Value": "label=SIMON CLARET",
+      "Targets": [
+        "id=selectmembres",
+        "xpath=//*[@id=\"selectmembres\"]",
+        "xpath=//select[@id='selectmembres']",
+        "xpath=//select",
+        "css=#selectmembres"
+      ]
+    },
+    {
+      "Command": "captureEntirePageScreenshot",
+      "Target": "precheck",
+      "Value": ""
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[1]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"08:00 - 08:40\"])[1]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[2]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"08:00 - 08:40\"])[2]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[3]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"08:00 - 08:40\"])[3]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[4]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"08:00 - 08:40\"])[4]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[5]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"08:00 - 08:40\"])[5]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[6]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"08:00 - 08:40\"])[6]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[7]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"08:00 - 08:40\"])[7]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"17:50 - 18:30\"])[1]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"17:50 - 18:30\"])[1]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"17:50 - 18:30\"])[2]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"17:50 - 18:30\"])[2]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"17:50 - 18:30\"])[3]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"17:50 - 18:30\"])[3]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "check",
+      "Target": "xpath=(//div[text()=\"17:50 - 18:30\"])[4]//following-sibling::div//child::input",
+      "Value": "",
+      "Targets": [
+        "xpath=(//div[text()=\"17:50 - 18:30\"])[4]//following-sibling::div//child::input",
+        "xpath=//div"
+      ]
+    },
+    {
+      "Command": "captureEntirePageScreenshot",
+      "Target": "postcheck",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Enregistrer@POS=2",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=Mes activités à venir@POS=2",
+      "Value": ""
+    },
+    {
+      "Command": "captureEntirePageScreenshot",
+      "Target": "postcommit",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=Se déconnecter",
+      "Value": ""
+    }
+  ]
+}

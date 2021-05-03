@@ -1,0 +1,51 @@
+{
+  "Name": "waitloop",
+  "CreationDate": "2021-5-3",
+  "Commands": [
+    {
+      "Command": "do",
+      "Target": "",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "10000",
+      "Value": ""
+    },
+    {
+      "Command": "executeScript_Sandbox",
+      "Target": "var d=new Date(); return d.getHours();",
+      "Value": "h"
+    },
+    {
+      "Command": "echo",
+      "Target": "h: ${h}",
+      "Value": "h"
+    },
+    {
+      "Command": "repeatIf",
+      "Target": "(${h} > 0)",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "3000",
+      "Value": ""
+    },
+    {
+      "Command": "echo",
+      "Target": "Executing reservation",
+      "Value": ""
+    },
+    {
+      "Command": "run",
+      "Target": "/pool",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "21600000",
+      "Value": ""
+    }
+  ]
+}
