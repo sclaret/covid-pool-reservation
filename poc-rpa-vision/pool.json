@@ -52,7 +52,7 @@
     {
       "Command": "type",
       "Target": "id=CodeUtilisateur",
-      "Value": "sclaret123",
+      "Value": "rpedreira",
       "Targets": [
         "id=CodeUtilisateur",
         "name=CodeUtilisateur",
@@ -65,7 +65,7 @@
     {
       "Command": "type",
       "Target": "id=motPasse",
-      "Value": "MONMOTDEPASSE",
+      "Value": "MOTDEPASSEDEROCIO",
       "Targets": [
         "id=motPasse",
         "name=motPasse",
