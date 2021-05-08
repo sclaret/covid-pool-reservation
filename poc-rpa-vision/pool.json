@@ -8,6 +8,11 @@
       "Value": ""
     },
     {
+      "Command": "open",
+      "Target": "https://www.sport-plus-online.com/PrmsMVC/?VirId=74&ArrId=114",
+      "Value": ""
+    },
+    {
       "Command": "click",
       "Target": "linkText=Tout accepter",
       "Value": "",
