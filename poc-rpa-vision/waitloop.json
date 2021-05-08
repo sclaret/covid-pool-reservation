@@ -24,7 +24,7 @@
     },
     {
       "Command": "repeatIf",
-      "Target": "(${h} > 0)",
+      "Target": "(${h} != 6)",
       "Value": ""
     },
     {
