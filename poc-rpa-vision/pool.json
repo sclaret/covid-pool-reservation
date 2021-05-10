@@ -15,8 +15,26 @@
       "Description": ""
     },
     {
+      "Command": "captureEntirePageScreenshot",
+      "Target": "postinit1",
+      "Value": "",
+      "Description": ""
+    },
+    {
       "Command": "open",
       "Target": "https://www.sport-plus-online.com/PrmsMVC/?VirId=74&ArrId=114",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "captureEntirePageScreenshot",
+      "Target": "postinit2",
       "Value": "",
       "Description": ""
     },
