@@ -25,20 +25,6 @@
       "Description": ""
     },
     {
-      "Command": "clickAndWait",
-      "Target": "linkText=Fermer",
-      "Value": "",
-      "Targets": [
-        "linkText=Fermer",
-        "id=btnSessionFermer",
-        "xpath=//*[@id=\"btnSessionFermer\"]",
-        "xpath=//a[@id='btnSessionFermer']",
-        "xpath=//div[3]/div[2]/a",
-        "css=#btnSessionFermer"
-      ],
-      "Description": ""
-    },
-    {
       "Command": "click",
       "Target": "linkText=Se déconnecter",
       "Value": "",
