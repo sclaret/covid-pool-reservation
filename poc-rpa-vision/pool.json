@@ -9,6 +9,12 @@
       "Description": ""
     },
     {
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
+      "Description": ""
+    },
+    {
       "Command": "open",
       "Target": "https://www.sport-plus-online.com/PrmsMVC/?VirId=74&ArrId=114",
       "Value": "",
@@ -25,6 +31,12 @@
       "Description": ""
     },
     {
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
+      "Description": ""
+    },
+    {
       "Command": "click",
       "Target": "linkText=Se déconnecter",
       "Value": "",
@@ -32,6 +44,12 @@
         "linkText=Se déconnecter",
         "xpath=//div"
       ],
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
       "Description": ""
     },
     {
@@ -44,6 +62,12 @@
         "xpath=//div/div/ul/li/a",
         "css=#menu-haut > div > div > ul > li > a"
       ],
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
       "Description": ""
     },
     {
@@ -87,7 +111,13 @@
       "Description": ""
     },
     {
-      "Command": "clickAndWait",
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
       "Target": "xpath=//*[@id=\"menuPrincipal\"]/li[6]/a",
       "Value": "",
       "Targets": [
@@ -96,6 +126,12 @@
         "xpath=//div[2]/div/ul/li[6]/a",
         "css=#menuPrincipal > li:nth-child(6) > a"
       ],
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
       "Description": ""
     },
     {
@@ -122,6 +158,12 @@
         "xpath=//select",
         "css=#selectmembres"
       ],
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
       "Description": ""
     },
     {
@@ -253,8 +295,20 @@
       "Description": ""
     },
     {
-      "Command": "clickAndWait",
+      "Command": "pause",
+      "Target": "4000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
       "Target": "linkText=Mes activités à venir@POS=2",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "4000",
       "Value": "",
       "Description": ""
     },
@@ -265,8 +319,14 @@
       "Description": ""
     },
     {
-      "Command": "clickAndWait",
+      "Command": "click",
       "Target": "linkText=Se déconnecter",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "4000",
       "Value": "",
       "Description": ""
     }
