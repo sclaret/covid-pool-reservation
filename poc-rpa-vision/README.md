@@ -5,6 +5,8 @@
 
 # Import Macros
 
+Create folder reservepoolslot
+
 Import waitloop.json, pool.json
  
 Substitute CodeUtilisateur, motPasse

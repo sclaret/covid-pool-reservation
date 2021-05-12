@@ -46,7 +46,7 @@
     },
     {
       "Command": "run",
-      "Target": "/pool",
+      "Target": "pool",
       "Value": "",
       "Description": ""
     },
