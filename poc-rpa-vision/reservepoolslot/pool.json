@@ -55,6 +55,12 @@
       "Description": ""
     },
     {
+      "Command": "captureEntirePageScreenshot",
+      "Target": "postacceptc",
+      "Value": "",
+      "Description": ""
+    },
+    {
       "Command": "click",
       "Target": "linkText=Se déconnecter",
       "Value": "",
@@ -114,6 +120,12 @@
         "xpath=//div[2]/div/div/input",
         "css=#motPasse"
       ],
+      "Description": ""
+    },
+    {
+      "Command": "captureEntirePageScreenshot",
+      "Target": "loginpage",
+      "Value": "",
       "Description": ""
     },
     {
