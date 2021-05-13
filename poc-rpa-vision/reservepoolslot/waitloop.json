@@ -21,8 +21,14 @@
       "Description": ""
     },
     {
+      "Command": "executeScript_Sandbox",
+      "Target": "var d2=new Date(); return d2.getMinutes();",
+      "Value": "m",
+      "Description": ""
+    },
+    {
       "Command": "echo",
-      "Target": "h: ${h}",
+      "Target": "${h}:${m}",
       "Value": "h",
       "Description": ""
     },
