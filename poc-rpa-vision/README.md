@@ -35,11 +35,26 @@ Play macro waitloop
 Turn on workstation sleep disabler
 
 
+# TODO
+
+- Rolling switch to new timeslots (map?)
+- Externalize auth credentials
+- Trigger from external scheduler
+- Move to dedicated box
+
+
+# IDEAS
+
+- Push confirmation to widget 
+- Push last run summary to morning briefing
+- Alert on failure
+
+
 # Failures
 
-- captcha
+- captcha.. random clicks, mt?
 - plugin loses handle on browser tab?
-- browser crash
+- = browser crash?
 - ~~expired session~~
 - ~~not logged out~~
 - ~~t&c popup~~
