@@ -52,6 +52,7 @@ Turn on workstation sleep disabler
 
 # Failures
 
+- media queries modify elements = xpath evaluation failure
 - captcha.. random clicks, mt?
 - plugin loses handle on browser tab?
 - = browser crash?
