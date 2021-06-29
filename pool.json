@@ -280,40 +280,40 @@
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"17:30 - 18:15\"])[1]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"17:20 - 18:00\"])[1]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"17:30 - 18:15\"])[1]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"17:20 - 18:00\"])[1]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"17:30 - 18:15\"])[2]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"17:20 - 18:00\"])[2]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"17:30 - 18:15\"])[2]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"17:20 - 18:00\"])[2]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"17:30 - 18:15\"])[3]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"17:20 - 18:00\"])[3]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"17:30 - 18:15\"])[3]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"17:20 - 18:00\"])[3]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"17:30 - 18:15\"])[4]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"17:20 - 18:00\"])[4]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"17:30 - 18:15\"])[4]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"17:20 - 18:00\"])[4]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
