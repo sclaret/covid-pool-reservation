@@ -4,7 +4,7 @@
   "Commands": [
     {
       "Command": "store",
-      "Target": "4000",
+      "Target": "1000",
       "Value": "t",
       "Description": ""
     },

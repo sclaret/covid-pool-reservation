@@ -14,7 +14,7 @@ Substitute CodeUtilisateur, motPasse
 
 # Settings
 
-Replay -> TIMEOUT_WAIT 4
+Replay -> TIMEOUT_WAIT 2
 
 
 # Error level
