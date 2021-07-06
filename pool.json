@@ -210,70 +210,70 @@
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[1]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"07:30 - 08:10\"])[1]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"08:00 - 08:40\"])[1]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"07:30 - 08:10\"])[1]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[2]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"07:30 - 08:10\"])[2]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"08:00 - 08:40\"])[2]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"07:30 - 08:10\"])[2]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[3]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"07:30 - 08:10\"])[3]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"08:00 - 08:40\"])[3]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"07:30 - 08:10\"])[3]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[4]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"07:30 - 08:10\"])[4]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"08:00 - 08:40\"])[4]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"07:30 - 08:10\"])[4]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[5]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"07:30 - 08:10\"])[5]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"08:00 - 08:40\"])[5]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"07:30 - 08:10\"])[5]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[6]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"07:30 - 08:10\"])[6]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"08:00 - 08:40\"])[6]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"07:30 - 08:10\"])[6]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
     },
     {
       "Command": "check",
-      "Target": "xpath=(//div[text()=\"08:00 - 08:40\"])[7]//following-sibling::div//child::input",
+      "Target": "xpath=(//div[text()=\"07:30 - 08:10\"])[7]//following-sibling::div//child::input",
       "Value": "",
       "Targets": [
-        "xpath=(//div[text()=\"08:00 - 08:40\"])[7]//following-sibling::div//child::input",
+        "xpath=(//div[text()=\"07:30 - 08:10\"])[7]//following-sibling::div//child::input",
         "xpath=//div"
       ],
       "Description": ""
